@@ -1,0 +1,6 @@
+{
+  "name": "Babuuuu",
+  "description": "A futuristic next-generation social stream with obsidian glassmorphism, glowing telemetry, and real-time Room persistence database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
